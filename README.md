@@ -27,8 +27,3 @@ This project demonstrates CRUD operations, MVC architecture, and clean UI design
 | Language | Java |
 
 ---
-
-## 📸 UI Preview
-
-> _(Add your application screenshot here)_  
-Example:  
